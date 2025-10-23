@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi there, I'm **Abdelaziz Hossam** 👋  
@@ -10,6 +11,18 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zezohossam08@gmail.com)
 
 </div>
+
+---
+
+## 🧭 Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Experience](#-experience)
+- [Education](#-education)
+- [Featured Projects](#-featured-projects)
+- [More Projects](#-more-projects)
+- [GitHub Statistics](#-github-statistics)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
@@ -75,47 +88,190 @@ Flutter developer with **2+ years** building production-grade apps in **HR-tech*
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-- **Tamkeen HR (Mobile & Web)** — Hiring platform for domestic & corporate workers (real-time booking, secure payments, advanced filtering, FCM).  
-  **Play Store:** https://play.google.com/store/apps/details?id=com.excprotection.TamkeenMobile
+<div align="center">
 
-- **EG Follow** — Instagram automation; processes follow/like orders in real-time via **MQTT**, runs in background (Alarm Manager + JS automation), points-based system.  
-  **Play Store:** https://play.google.com/store/apps/details?id=com.abdoo.egfollow
+### 📱 Published Applications
 
-- **Voninja** — Gamified English learning with rewards; **Flutter + Firebase + AdMob**.  
-  **Play Store:** https://play.google.com/store/apps/details?id=com.ahmed.vo_ninja
+</div>
 
-- **Hagzaia (Sports Booking)** — User & Admin subsystems, multi payment methods (Visa, **Vodafone Cash**, Fawry), real-time chat & posts.  
-  **Play Store (example):** https://play.google.com/store/apps/details?id=com.kora_app.kora_app
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Ta’am (Second-hand Fashion)** — **Flutter + Firebase** with **deep learning** for image classification, visual search, and keypoint-based size estimation.  
-  **GitHub:** https://github.com/Arttacker/Taam-App
+#### 🚚 WaslX — Delivery Ecosystem
+**Comprehensive 3-App Delivery System**
+- **WaslX (User App):** Real-time order tracking, secure payments, map-based courier chat.
+- **WaslX Vendor:** Manage orders & catalogs, view sales and settlements.
+- **WaslX Delivery:** Route-optimized tasks, live status, earnings dashboard.
 
-- **Mazaya IoT Smart Homes** — Real-time IoT control via **MQTT/BLE**, multi-home management, automation rules, energy tracking, marketplace. *(in progress store listing)*
+**Tech:** Flutter · Firebase · REST · Google Maps · Payment Gateway
 
-- **Hospital Patient Management** — Cross-platform app for admins/doctors/nurses with role-based auth, real-time data, notes, and PDF access.
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id6742786384)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.waslx.user)
 
-> Tech highlights across projects: Flutter, Firebase (Auth, RTDB/Firestore, FCM), **REST**, **MQTT/BLE**, background services, payments (**Paymob**), testing.
+</td>
+<td width="50%" valign="top">
+
+#### 📖 Al‑Huda Quran App
+**Smart Islamic Application**
+- Full Quran + multi‑reciter audio, simplified tafsir, fast verse search
+- Qibla direction, bookmarks, progress, dark/light modes
+- AI‑powered religious Q&A
+
+**Tech:** Flutter · Firebase · REST · BLoC
+
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id6745791652)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.alhoda)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👔 TamkeenHR | تمكين
+**Home Cleaning Workforce Rental Platform**
+- Rent workers (yearly/monthly/hourly), contract flows, notifications
+- Location + navigation integration, multi‑role UX
+
+**Tech:** Flutter · REST · Maps · Push Notifications
+
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id1480347160)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.excprotection.TamkeenMobile)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍕 Deli Pizza | بيتزا ديلي
+**Multi‑Branch Restaurant Application**
+- Customizable add‑ons, points & rewards, secure payments
+- Real‑time order updates via push notifications
+
+**Tech:** Flutter · REST · Payments · Notifications
+
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id1624256285)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.pizza.deli_pizza)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔧 Smartech
+**Two‑App Service Booking System**
+- **User:** Book services by area/time, in‑app chat, session timer, payments
+- **Provider:** Manage orders/services, add employees, track income
+
+**Tech:** Flutter · Firebase · REST · Provider · Chat
+
+[![Google Play — User](https://img.shields.io/badge/▶_Google_Play-User_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.smartTech.user)
+[![Google Play — Provider](https://img.shields.io/badge/▶_Google_Play-Provider_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.smartTech.provider)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚛 Nosalk24h
+**Dual‑Purpose Shipment Transportation (2 Apps)**
+- **User:** Post shipment with size/photos, pick locations, receive courier offers, track on map
+- **Driver:** Browse requests, bid price, in‑app chat/calls, status notifications
+
+**Tech:** Flutter · REST · Google Maps · Firebase (RTDB/FCM)
+
+[![Google Play — User](https://img.shields.io/badge/▶_Google_Play-User_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.nwaslk)
+[![Google Play — Driver](https://img.shields.io/badge/▶_Google_Play-Driver_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.nwasalk_driver)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👗 Lotus Mall | لوتس مول
+**Abaya Shopping App**
+- Mobile login, explore/filter/search, favorites/cart, delivery tracking
+
+**Tech:** Flutter · REST · Firebase Auth · Provider
+
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id6443470098)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.abaya.lotus.om)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛍️ Rekan | ركان
+**Multi‑Vendor E‑Commerce (3 Apps)**
+- **User:** Browse vendors/products, buy & track orders
+- **Seller:** Add products, manage orders & finance
+- **Delivery:** Track tasks & earnings
+
+**Tech:** Flutter · Firebase · REST · Payments · Maps
+
+[![Google Play — User](https://img.shields.io/badge/▶_Google_Play-User_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rakan.muscatapps)
+[![Google Play — Seller](https://img.shields.io/badge/▶_Google_Play-Seller_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.seller.muscatapps)
+[![Google Play — Delivery](https://img.shields.io/badge/▶_Google_Play-Delivery_App-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.rekan.delivery.muscatapps)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕌 Maawel Zakat
+**Zakat & Charity Platform**
+- Zakat calculation, donation flows, transaction history, secure payments
+
+**Tech:** Flutter · REST · Firebase · Payment Integration
+
+[![App Store](https://img.shields.io/badge/_App_Store-Download-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/id6502297579)
+[![Google Play](https://img.shields.io/badge/▶_Google_Play-Download-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.muscatapps.maawel.zakat)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Core Competencies (as Code)
+## ➕ More Projects (with expressive icons)
 
-```dart
-class FlutterDev {
-  final String name = "Abdelaziz Hossam";
-  final int experienceYears = 2;
+- 🏠🔌 **Mazaya IoT Smart Homes** — Real‑time IoT control via **MQTT/BLE**, multi‑home management, automation rules, energy tracking, marketplace. *(store listing in progress)*  
+- 🤖 **EG Follow** — Instagram automation; processes follow/like orders in real‑time via **MQTT**, background jobs (Alarm Manager + JS automation), points system.  
+  **Play Store:** https://play.google.com/store/apps/details?id=com.abdoo.egfollow  
+- 🎮 **Voninja** — Gamified English learning (**Flutter + Firebase + AdMob**).  
+  **Play Store:** https://play.google.com/store/apps/details?id=com.ahmed.vo_ninja  
+- 🏥 **Hospital Patient Management** — Cross‑platform app (admins/doctors/nurses), role‑based auth, real‑time data, notes, PDF access.  
+- 🧥 **Ta’am (Second‑hand Fashion)** — **Flutter + Firebase** + **DL** for image classification & visual search; keypoint‑based size estimation.  
+  **GitHub:** https://github.com/Arttacker/Taam-App
 
-  final skills = [
-    "Flutter & Dart (Advanced UI, Animations)",
-    "Clean Architecture + SOLID",
-    "BLoC / Riverpod state management",
-    "Firebase (Auth, DB, FCM)",
-    "REST integrations & testing",
-    "IoT: MQTT/BLE + background services",
-    "Problem solving & DS/Algorithms",
-  ];
+---
 
-  void ship() => print("Build. Test. Optimize. Ship. 🚀");
-}
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zezo794&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=0091EA&icon_color=0091EA&text_color=ffffff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zezo794&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0091EA&icon_color=0091EA&text_color=ffffff" alt="Top Languages" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zezo794&theme=tokyonight&hide_border=true&background=0D1117&ring=0091EA&fire=0091EA&currStreakLabel=0091EA)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zezo794&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelaziz_Hossam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-hossam-95617a254)
+[![GitHub](https://img.shields.io/badge/GitHub-Zezo794-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zezo794)
+[![Email](https://img.shields.io/badge/Email-zezohossam08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezohossam08@gmail.com)
+
+</div>
+
+<!-- Optional: Contribution snake (enable after pushing assets to your repo)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zezo794/Zezo794/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zezo794/Zezo794/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zezo794/Zezo794/output/github-snake.svg" />
+</picture>
+-->
