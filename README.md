@@ -123,6 +123,22 @@ Flutter developer with **2+ years** building production‑grade mobile apps in *
 
 </td>
 </tr>
+
+<tr>
+  <td width="50%" valign="top">
+
+#### 🕌 Rattal — Qur’an Recitation & Prayer Companion
+**Qur’an + Prayer Tools + Competitions**
+- High-quality Qur’an recitations with clear, soothing voices from well-known reciters
+- Accurate location-based prayer times, precise Qibla direction
+- Interactive Qur’an competitions to boost engagement and regular completion  
+**Tech:** Mobile App · Location Services · Audio Streaming · Notifications
+
+  </td>
+  <td width="50%" valign="top">
+  </td>
+</tr>
+
 </table>
 
 ---
