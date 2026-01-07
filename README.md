@@ -122,9 +122,7 @@ Flutter developer with **2+ years** building production‑grade mobile apps in *
 <td width="50%" valign="top">
 
 </td>
-</tr>
 
-<tr>
   <td width="50%" valign="top">
 
 #### 🕌 Rattal — Qur’an Recitation & Prayer Companion
