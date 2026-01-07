@@ -119,9 +119,7 @@ Flutter developer with **2+ years** building production‑grade mobile apps in *
 **Tech:** Flutter · Firebase/REST · PDF
 
 </td>
-<td width="50%" valign="top">
 
-</td>
 
   <td width="50%" valign="top">
 
